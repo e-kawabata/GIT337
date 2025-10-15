@@ -3,10 +3,9 @@ body {
 }
 
 h1 {
-    color: aquamarine;
+    color:aquamarine;
     font-family:Arial, Helvetica, sans-serif;
     font-size:xx-large;
     text-decoration-line:underline;
     text-decoration-color:white;
-    text-decoration-style:dotted;
 }
